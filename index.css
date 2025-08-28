@@ -1,0 +1,40 @@
+.section1 {
+  width: 390px;
+  height: 121px;
+}
+.navigation {
+  width: 390px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.head {
+  display: flex;
+}
+.apple1 {
+  width: 16px;
+  height: 19px;
+}
+.apple {
+  width: 49px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search1 {
+  width: 16px;
+  height: 16px;
+}
+.zuraas {
+  width: 18px;
+  height: 18px;
+}
