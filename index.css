@@ -1172,6 +1172,11 @@
     background-position: center;
     background-size: cover;
   }
+  .desktop-gift {
+    display: flex;
+    flex-direction: column;
+    padding-top: 320px;
+  }
   .section4 {
     height: 500px;
     margin-top: 12px;
